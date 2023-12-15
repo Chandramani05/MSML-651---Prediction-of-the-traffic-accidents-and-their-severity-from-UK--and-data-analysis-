@@ -1,3 +1,6 @@
+# Note 
+Please open Code_Notebbok folder for code
+
 # UK Road Safety: Traffic Accidents and Vehicles
 This repository contains files produced for my MSML 651 Project
 
